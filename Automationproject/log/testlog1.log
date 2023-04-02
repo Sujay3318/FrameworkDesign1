@@ -1,0 +1,23 @@
+2023-03-30 16:56:40,297 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-30 16:56:40,431 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:18:26,856 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:18:30,621 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:18:31,769 [main] INFO Testcases.BaseTestClass - Login Successful
+2023-03-31 15:18:41,533 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:18:42,506 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:18:45,201 [main] INFO Testcases.BaseTestClass - Login Successful
+2023-03-31 15:18:58,754 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:19:00,510 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:19:01,986 [main] INFO Testcases.BaseTestClass - Login Successful
+2023-03-31 15:19:14,934 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:19:15,839 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:19:18,300 [main] INFO Testcases.BaseTestClass - Login Successful
+2023-03-31 15:19:31,028 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:19:32,002 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:19:34,939 [main] INFO Testcases.BaseTestClass - Login Successful
+2023-03-31 15:19:48,921 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:19:50,127 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:19:53,224 [main] INFO Testcases.BaseTestClass - Login Successful
+2023-03-31 15:20:08,170 [main] INFO Testcases.BaseTestClass - We are on home page 
+2023-03-31 15:20:09,144 [main] INFO Testcases.BaseTestClass - We are on Login page 
+2023-03-31 15:20:11,591 [main] INFO Testcases.BaseTestClass - Login Successful
